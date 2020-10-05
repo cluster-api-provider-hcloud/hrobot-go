@@ -1,4 +1,4 @@
-module github.com/nl2go/hrobot-go
+module github.com/cluster-api-provider-hcloud/hrobot-go
 
 go 1.13
 

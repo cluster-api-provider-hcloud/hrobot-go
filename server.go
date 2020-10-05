@@ -5,7 +5,7 @@ import (
 	"fmt"
 	neturl "net/url"
 
-	"github.com/nl2go/hrobot-go/models"
+	"github.com/cluster-api-provider-hcloud/hrobot-go/models"
 )
 
 func (c *Client) ServerGetList() ([]models.Server, error) {

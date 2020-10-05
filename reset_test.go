@@ -7,8 +7,8 @@ import (
 	"net/http/httptest"
 	"os"
 
-	client "github.com/nl2go/hrobot-go"
-	"github.com/nl2go/hrobot-go/models"
+	client "github.com/cluster-api-provider-hcloud/hrobot-go"
+	"github.com/cluster-api-provider-hcloud/hrobot-go/models"
 	. "gopkg.in/check.v1"
 )
 
